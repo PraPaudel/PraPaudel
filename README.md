@@ -1,13 +1,9 @@
-# PraPaudel
-
-Hi there 👋
-
-Welcome to my GitHub profile!
+### Hi there 👋
 
 ## About me
 
-- 😊 I am a PhD student
-- 🧠 I’m currently studying how the brain learns and stores memories during social interactions
+- 😊 I am a graduate student in the Department of Neurobiology and Behavior at Cornell University
+- 🧠 I'm currently studying how the brain learns and stores memories during social behavior
 
 ## Sections
 
@@ -17,10 +13,9 @@ Welcome to my GitHub profile!
 
 ### Projects
 
-Neural Mechanisms of Social Learning and Memory in Freely Behaving Mice
+**Neural Mechanisms of Social Learning and Memory in Freely Behaving Mice**
    - Investigating the neural code for social learning and memory
    - Extracellular electrophysiology in the dorsal CA2 and ventral CA1 areas of the hippocampus
-
 
 ### Publications
 
@@ -28,6 +23,7 @@ Neural Mechanisms of Social Learning and Memory in Freely Behaving Mice
 
 ### Contact
 
-📧 If you'd like to get in touch, feel free to reach out to me [here](link_to_yhttps://twitter.com/PraPaudelour_contact_page).
+📧 If you'd like to get in touch, feel free to reach out to me [here](https://twitter.com/PraPaudel).
+
 
 
