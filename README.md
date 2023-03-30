@@ -13,7 +13,8 @@
 
 **Neural Mechanisms of Social Learning and Memory in Freely Behaving Mice**
    - Investigating the neural code for social learning and memory
-   - Extracellular electrophysiology in the dorsal CA2 and ventral CA1 areas of the hippocampus
+   - Conducting extracellular electrophysiology experiments
+   - Studying social behavior in both laboratory and field settings
 
 ### Publications
 
