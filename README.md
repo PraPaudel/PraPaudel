@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-## About me
-
 - 😊 I am a graduate student in the Department of Neurobiology and Behavior at Cornell University
 - 🧠 I'm currently studying how the brain learns and stores memories during social behavior
 
