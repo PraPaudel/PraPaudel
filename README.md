@@ -3,12 +3,6 @@
 - 😊 I am a graduate student in the Department of Neurobiology and Behavior at Cornell University
 - 🧠 I'm currently studying how the brain learns and stores memories during social behavior
 
-## Sections
-
-1. [Projects](#projects)
-2. [Publications](#publications)
-3. [Contact](#contact)
-
 ### Projects
 
 **Neural Mechanisms of Social Learning and Memory in Freely Behaving Mice**
@@ -16,6 +10,7 @@
    - Conducting extracellular electrophysiology experiments
    - Studying social behavior in both laboratory and field settings
 
+![social behavior in laboratory](https://github.com/PraPaudel/PraPaudel/blob/master/https://youtu.be/zLjTg9YgRLQ/zLjTg9YgRLQ_mp.gif?raw=true)   
 ### Publications
 
 📚 You can find information about my published works [here](https://scholar.google.com/citations?user=RSMYGm4AAAAJ&hl=en).
