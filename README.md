@@ -10,7 +10,6 @@
    - Conducting extracellular electrophysiology experiments
    - Studying social behavior in both laboratory and field settings
 
-![Social behavior in the laboratory](https://www.youtube.com/watch?v=zLjTg9YgRLQ)   
 ### Publications
 
 📚 You can find information about my published works [here](https://scholar.google.com/citations?user=RSMYGm4AAAAJ&hl=en).
