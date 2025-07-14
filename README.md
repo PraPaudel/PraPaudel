@@ -7,7 +7,7 @@ I'm a graduate student at Cornell University studying how mice brains work durin
 I investigate how neural circuits encode territorial behaviors in mice using field-based electrophysiology.
 
 **Neural Mechanisms of Territorial Behavior in Field Settings**
-- Multi-electrode recordings from mice in natural territories
+- Multi-electrode recordings from mice
 - Neural dynamics during territorial encounters and boundary establishment
 
 ### 📚 Publications
