@@ -1,20 +1,16 @@
-### Hi there 👋
+## 👋
 
-- 😊 I am a graduate student in the Department of Neurobiology and Behavior at Cornell University
-- 🧠 I'm currently studying how the brain learns and stores memories during naturalistic behavior
+I'm a graduate student at Cornell University studying how mice brains work during territorial behavior in the wild.
 
-### Projects
+### 🧠 Research Focus
 
-**Neural Mechanisms of Social Learning and Memory in Freely Behaving Mice**
-   - Conducting extracellular electrophysiology experiments
-   - Studying naturalistic behavior in the laboratory and field settings
+I investigate how neural circuits encode territorial behaviors in mice using field-based electrophysiology.
 
-### Publications
+**Neural Mechanisms of Territorial Behavior in Field Settings**
+- Multi-electrode recordings from mice in natural territories
+- Neural dynamics during territorial encounters and boundary establishment
 
-📚 You can find information about my published works [here](https://scholar.google.com/citations?user=RSMYGm4AAAAJ&hl=en).
+### 📚 Publications
 
-
-
-
-
+Find my published works on [Google Scholar](https://scholar.google.com/citations?user=RSMYGm4AAAAJ&hl=en).
 
