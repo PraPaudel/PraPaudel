@@ -1,14 +1,14 @@
 ## 👋
 
-I'm a graduate student at Cornell University studying how mice brains work during territorial behavior in the wild.
+I'm a graduate student at **Cornell University** studying **natural neuroscience** in rodent models through ***outdoor fieldwork***.
 
 ### 🧠 Research Focus
 
-I investigate how neural circuits encode territorial behaviors in mice using field-based electrophysiology.
+I investigate how neural circuits encode **territorial behavior** using _large scale extracellular electrophysiology_ and **natural neuroscience approaches** in ***wild settings***.
 
-**Neural Mechanisms of Territorial Behavior in Field Settings**
-- Multi-electrode recordings from mice
-- Neural dynamics during territorial encounters and boundary establishment
+**Neuroethological Studies in Naturalistic Settings**
+- Multi-electrode recordings in **house mice** in _outdoor paddock environments_
+- Neural dynamics during **social encounters** and ***spatial boundary establishment*** in the field
 
 ### 📚 Publications
 
